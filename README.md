@@ -1,12 +1,14 @@
 # ML-Algorithms
 
-Machine Learning tasks including S&P500 index prediction, Stock prices time series prediction and Predicting product rating from review text.
+Machine Learning tasks including S&P500 index prediction, Stock prices time series prediction, Predicting product rating from review text, EigenFaces and classification of cancer gene expressions.
 
 ## Technology:
 
-* Python3
-* Jupyter Notebook
-* SK-Learn
+- Python3
+- Jupyter Notebook
+- SK-Learn
+- Pandas
+- Numpy
 
 ## How to run?
 
